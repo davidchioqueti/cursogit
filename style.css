@@ -3,3 +3,8 @@ body{
     flex-direction: column;
     align-items: center;
 }
+
+.img-size{
+   border-radius: 60%;
+   border: 1px solid;
+}
